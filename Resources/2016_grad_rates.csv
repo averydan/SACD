@@ -1,0 +1,350 @@
+Corp ID,Corporation Name,Cohort N,Grad N,Grad Rate,"Non-Waiver
+Grad N","Non-Waiver
+Grad Rate"
+0015,Adams Central Community Schools,87,86,98.9%,85,97.7%
+0025,North Adams Community Schools,187,166,88.8%,154,82.4%
+0035,South Adams Schools,81,73,90.1%,69,85.2%
+0125,M S D Southwest Allen County Schls,561,542,96.6%,529,94.3%
+0225,Northwest Allen County Schools,512,495,96.7%,490,95.7%
+0235,Fort Wayne Community Schools,1865,1664,89.2%,1429,76.6%
+0255,East Allen County Schools,819,752,91.8%,687,83.9%
+0365,Bartholomew Con School Corp,799,719,90.0%,660,82.6%
+0370,Flat Rock-Hawcreek School Corp,56,56,100.0%,51,91.1%
+0395,Benton Community School Corp,111,104,93.7%,100,90.1%
+0515,Blackford County Schools,136,125,91.9%,118,86.8%
+0615,Western Boone Co Com Sch Dist,143,137,95.8%,135,94.4%
+0630,Zionsville Community Schools,455,445,97.8%,445,97.8%
+0665,Lebanon Community School Corp,243,227,93.4%,220,90.5%
+0670,Brown County School Corporation,144,143,99.3%,135,93.8%
+0750,Carroll Consolidated School Corp,59,56,94.9%,56,94.9%
+0755,Delphi Community School Corp,107,96,89.7%,90,84.1%
+0775,Pioneer Regional School Corp,71,63,88.7%,60,84.5%
+0815,Southeastern School Corp,130,126,96.9%,122,93.8%
+0875,Logansport Community Sch Corp,278,262,94.2%,237,85.3%
+0940,West Clark Community Schools,337,311,92.3%,291,86.4%
+1000,Clarksville Community School Corp,92,89,96.7%,82,89.1%
+1010,Greater Clark County Schools,726,682,93.9%,615,84.7%
+1125,Clay Community Schools,268,249,92.9%,237,88.4%
+1150,Clinton Central School Corporation,75,73,97.3%,69,92.0%
+1160,Clinton Prairie School Corporation,69,66,95.7%,65,94.2%
+1170,Community Schools of Frankfort,232,213,91.8%,191,82.3%
+1180,Rossville Con School District,74,74,100.0%,67,90.5%
+1300,Crawford County Community Sch Corp,100,86,86.0%,79,79.0%
+1315,Barr-Reeve Community Schools Inc,46,44,95.7%,44,95.7%
+1375,North Daviess Com Schools,72,67,93.1%,64,88.9%
+1405,Washington Community Schools,166,159,95.8%,146,88.0%
+1560,Sunman-Dearborn Com Sch Corp,308,293,95.1%,282,91.6%
+1600,South Dearborn Community Sch Corp,224,200,89.3%,184,82.1%
+1620,Lawrenceburg Community School Corp,146,142,97.3%,127,87.0%
+1655,Decatur County Community Schools,158,148,93.7%,130,82.3%
+1730,Greensburg Community Schools,140,139,99.3%,131,93.6%
+1805,DeKalb Co Eastern Com Sch Dist,131,124,94.7%,108,82.4%
+1820,Garrett-Keyser-Butler Com Sch Corp,139,135,97.1%,121,87.1%
+1835,DeKalb Co Ctl United Sch Dist,274,246,89.8%,231,84.3%
+1875,Delaware Community School Corp,192,181,94.3%,174,90.6%
+1885,Wes-Del Community Schools,74,73,98.6%,69,93.2%
+1895,Liberty-Perry Community Sch Corp,79,78,98.7%,77,97.5%
+1900,Cowan Community School Corp,47,44,93.6%,42,89.4%
+1910,Yorktown Community Schools,159,156,98.1%,152,95.6%
+1940,Daleville Community Schools,60,59,98.3%,57,95.0%
+1970,Muncie Community Schools,322,297,92.2%,250,77.6%
+2040,Northeast Dubois Co Sch Corp,71,64,90.1%,63,88.7%
+2100,Southeast Dubois Co Sch Corp,106,103,97.2%,98,92.5%
+2110,Southwest Dubois Co Sch Corp,127,117,92.1%,109,85.8%
+2120,Greater Jasper Consolidated Schs,286,275,96.2%,271,94.8%
+2155,Fairfield Community Schools,136,126,92.6%,123,90.4%
+2260,Baugo Community Schools,141,134,95.0%,125,88.7%
+2270,Concord Community Schools,371,333,89.8%,306,82.5%
+2275,Middlebury Community Schools,342,315,92.1%,300,87.7%
+2285,Wa-Nee Community Schools,212,194,91.5%,188,88.7%
+2305,Elkhart Community Schools,785,696,88.7%,625,79.6%
+2315,Goshen Community Schools,455,401,88.1%,375,82.4%
+2395,Fayette County School Corporation,251,228,90.8%,208,82.9%
+2400,New Albany-Floyd Co Con Sch,900,843,93.7%,726,80.7%
+2435,Attica Consolidated School Corp,61,57,93.4%,53,86.9%
+2440,Covington Community School Corp,70,66,94.3%,64,91.4%
+2455,Southeast Fountain School Corp,99,93,93.9%,83,83.8%
+2475,Franklin County Community Sch Corp,182,167,91.8%,158,86.8%
+2645,Rochester Community School Corp,134,130,97.0%,122,91.0%
+2650,Caston School Corporation,62,55,88.7%,47,75.8%
+2725,East Gibson School Corporation,52,51,98.1%,41,78.8%
+2735,North Gibson School Corp,164,144,87.8%,128,78.0%
+2765,South Gibson School Corporation,170,155,91.2%,150,88.2%
+2815,Eastbrook Community Sch Corp,130,127,97.7%,112,86.2%
+2825,Madison-Grant United School Corp,96,92,95.8%,85,88.5%
+2855,Mississinewa Community School Corp,171,165,96.5%,147,86.0%
+2865,Marion Community Schools,234,227,97.0%,193,82.5%
+2920,Bloomfield School District,65,63,96.9%,63,96.9%
+2940,Eastern Greene Schools,90,80,88.9%,75,83.3%
+2950,Linton-Stockton School Corporation,83,81,97.6%,78,94.0%
+2960,M S D Shakamak Schools,48,45,93.8%,44,91.7%
+2980,White River Valley School District,65,59,90.8%,55,84.6%
+3005,Hamilton Southeastern Schools,1428,1374,96.2%,1346,94.3%
+3025,Hamilton Heights School Corp,158,151,95.6%,148,93.7%
+3030,Westfield-Washington Schools,436,425,97.5%,415,95.2%
+3055,Sheridan Community Schools,84,76,90.5%,75,89.3%
+3060,Carmel Clay Schools,1218,1175,96.5%,1146,94.1%
+3070,Noblesville Schools,602,574,95.3%,546,90.7%
+3115,Southern Hancock Co Com Sch Corp,292,283,96.9%,280,95.9%
+3125,Greenfield-Central Com Schools,332,302,91.0%,290,87.3%
+3135,Mt Vernon Community School Corp,314,298,94.9%,289,92.0%
+3145,Eastern Hancock Co Com Sch Corp,89,83,93.3%,83,93.3%
+3160,Lanesville Community School Corp,58,57,98.3%,53,91.4%
+3180,North Harrison Com School Corp,148,141,95.3%,132,89.2%
+3190,South Harrison Com Schools,221,204,92.3%,186,84.2%
+3295,North West Hendricks Schools,144,143,99.3%,138,95.8%
+3305,Brownsburg Community School Corp,559,553,98.9%,542,97.0%
+3315,Avon Community School Corp,704,689,97.9%,646,91.8%
+3325,Danville Community School Corp,202,192,95.0%,186,92.1%
+3330,Plainfield Community School Corp,355,348,98.0%,341,96.1%
+3335,Mill Creek Community Sch Corp,114,111,97.4%,108,94.7%
+3405,Blue River Valley Schools,34,30,88.2%,29,85.3%
+3415,South Henry School Corp,54,54,100.0%,52,96.3%
+3435,Shenandoah School Corporation,86,82,95.3%,81,94.2%
+3445,New Castle Community School Corp,256,244,95.3%,204,79.7%
+3455,C A Beard Memorial School Corp,104,100,96.2%,95,91.3%
+3460,Taylor Community School Corp,102,84,82.4%,76,74.5%
+3470,Northwestern School Corp,107,104,97.2%,104,97.2%
+3480,Eastern Howard School Corporation,88,87,98.9%,86,97.7%
+3490,Western School Corp,191,184,96.3%,175,91.6%
+3500,Kokomo School Corporation,449,370,82.4%,316,70.4%
+3625,Huntington Co Com Sch Corp,342,312,91.2%,292,85.4%
+3640,Medora Community School Corp,28,26,92.9%,24,85.7%
+3675,Seymour Community Schools,294,276,93.9%,246,83.7%
+3695,Brownstown Cnt Com Sch Corp,141,137,97.2%,132,93.6%
+3710,Crothersville Community Schools,30,27,90.0%,24,80.0%
+3785,Kankakee Valley School Corp,242,229,94.6%,222,91.7%
+3815,Rensselaer Central School Corp,116,111,95.7%,100,86.2%
+3945,Jay School Corporation,299,281,94.0%,245,81.9%
+3995,Madison Consolidated Schools,228,205,89.9%,181,79.4%
+4000,Southwestern-Jefferson Co Con,81,76,93.8%,68,84.0%
+4015,Jennings County School Corporation,312,294,94.2%,259,83.0%
+4145,Clark-Pleasant Community Sch Corp,433,406,93.8%,381,88.0%
+4205,Center Grove Community School Corp,559,529,94.6%,514,91.9%
+4215,Edinburgh Community School Corp,68,65,95.6%,62,91.2%
+4225,Franklin Community School Corp,365,345,94.5%,320,87.7%
+4245,Greenwood Community Sch Corp,257,234,91.1%,227,88.3%
+4255,Nineveh-Hensley-Jackson United,124,118,95.2%,107,86.3%
+4315,North Knox School Corp,78,78,100.0%,73,93.6%
+4325,South Knox School Corp,77,75,97.4%,74,96.1%
+4335,Vincennes Community School Corp,168,163,97.0%,150,89.3%
+4345,Wawasee Community School Corp,224,197,87.9%,185,82.6%
+4415,Warsaw Community Schools,503,466,92.6%,431,85.7%
+4445,Tippecanoe Valley School Corp,148,141,95.3%,127,85.8%
+4455,Whitko Community School Corp,119,110,92.4%,103,86.6%
+4515,Prairie Heights Community Sch Corp,116,110,94.8%,108,93.1%
+4525,Westview School Corporation,100,96,96.0%,95,95.0%
+4535,Lakeland School Corporation,154,131,85.1%,122,79.2%
+4580,Hanover Community School Corp,156,149,95.5%,146,93.6%
+4590,River Forest Community Sch Corp,105,79,75.2%,74,70.5%
+4600,Merrillville Community School Corp,522,457,87.5%,423,81.0%
+4615,Lake Central School Corporation,758,724,95.5%,697,92.0%
+4645,Tri-Creek School Corporation,264,259,98.1%,243,92.0%
+4650,Lake Ridge New Tech Schools,141,136,96.5%,100,70.9%
+4660,Crown Point Community School Corp,723,695,96.1%,648,89.6%
+4670,School City of East Chicago,221,162,73.3%,149,67.4%
+4680,Lake Station Community Schools,84,77,91.7%,67,79.8%
+4690,Gary Community School Corp,333,286,85.9%,252,75.7%
+4700,Griffith Public Schools,188,180,95.7%,152,80.9%
+4710,School City of Hammond,840,691,82.3%,610,72.6%
+4720,School Town of Highland,266,247,92.9%,240,90.2%
+4730,School City of Hobart,354,333,94.1%,294,83.1%
+4740,School Town of Munster,344,334,97.1%,329,95.6%
+4760,School City of Whiting,98,90,91.8%,90,91.8%
+4805,New Prairie United School Corp,201,190,94.5%,176,87.6%
+4860,M S D of New Durham Township,88,82,93.2%,70,79.5%
+4915,Tri-Township Cons School Corp,29,29,100.0%,25,86.2%
+4925,Michigan City Area Schools,352,311,88.4%,258,73.3%
+4940,South Central Com School Corp,68,67,98.5%,67,98.5%
+4945,LaPorte Community School Corp,444,393,88.5%,348,78.4%
+5075,North Lawrence Com Schools,375,322,85.9%,310,82.7%
+5085,Mitchell Community Schools,132,109,82.6%,102,77.3%
+5245,Frankton-Lapel Community Schools,227,218,96.0%,200,88.1%
+5255,South Madison Com Sch Corp,317,294,92.7%,281,88.6%
+5265,Alexandria Community School Corp,117,112,95.7%,108,92.3%
+5275,Anderson Community School Corp,387,367,94.8%,298,77.0%
+5280,Elwood Community School Corp,89,81,91.0%,71,79.8%
+5300,M S D Decatur Township,458,373,81.4%,341,74.5%
+5310,Franklin Township Com Sch Corp,616,597,96.9%,565,91.7%
+5330,M S D Lawrence Township,1157,1069,92.4%,871,75.3%
+5340,Perry Township Schools,980,911,93.0%,755,77.0%
+5350,M S D Pike Township,701,653,93.2%,577,82.3%
+5360,M S D Warren Township,834,732,87.8%,641,76.9%
+5370,M S D Washington Township,792,701,88.5%,619,78.2%
+5375,M S D Wayne Township,1147,973,84.8%,820,71.5%
+5380,Beech Grove City Schools,163,142,87.1%,131,80.4%
+5385,Indianapolis Public Schools,1130,869,76.9%,725,64.2%
+5400,School Town of Speedway,89,84,94.4%,79,88.8%
+5455,Culver Community Schools Corp,70,64,91.4%,59,84.3%
+5470,Argos Community Schools,48,38,79.2%,37,77.1%
+5480,Bremen Public Schools,115,103,89.6%,103,89.6%
+5485,Plymouth Community School Corp,273,236,86.4%,218,79.9%
+5495,Triton School Corporation,84,76,90.5%,75,89.3%
+5520,Shoals Community School Corp,36,32,88.9%,29,80.6%
+5525,Loogootee Community Sch Corp,78,74,94.9%,69,88.5%
+5615,Maconaquah School Corp,121,113,93.4%,104,86.0%
+5620,North Miami Community Schools,59,54,91.5%,48,81.4%
+5625,Oak Hill United School Corp,116,109,94.0%,109,94.0%
+5635,Peru Community Schools,144,141,97.9%,132,91.7%
+5705,Richland-Bean Blossom C S C,189,174,92.1%,170,89.9%
+5740,Monroe County Community Sch Corp,767,723,94.3%,691,90.1%
+5835,North Montgomery Com Sch Corp,138,133,96.4%,125,90.6%
+5845,South Montgomery Com Sch Corp,102,100,98.0%,96,94.1%
+5855,Crawfordsville Community Schools,148,143,96.6%,126,85.1%
+5900,Monroe-Gregg School District,119,108,90.8%,101,84.9%
+5910,Eminence Community School Corp,28,28,100.0%,27,96.4%
+5925,M S D Martinsville Schools,315,297,94.3%,284,90.2%
+5930,Mooresville Con School Corp,309,288,93.2%,270,87.4%
+5945,North Newton School Corp,98,93,94.9%,84,85.7%
+5995,South Newton School Corp,72,66,91.7%,66,91.7%
+6055,Central Noble Com School Corp,108,102,94.4%,78,72.2%
+6060,East Noble School Corporation,286,252,88.1%,217,75.9%
+6065,West Noble School Corporation,153,143,93.5%,139,90.8%
+6080,Rising Sun-Ohio Co Com,42,38,90.5%,37,88.1%
+6145,Orleans Community Schools,60,58,96.7%,58,96.7%
+6155,Paoli Community School Corp,82,67,81.7%,59,72.0%
+6160,Springs Valley Com School Corp,58,55,94.8%,52,89.7%
+6195,Spencer-Owen Community Schools,187,167,89.3%,157,84.0%
+6260,Southwest Parke Com Sch Corp,83,70,84.3%,68,81.9%
+6325,Perry Central Com Schools Corp,82,81,98.8%,71,86.6%
+6340,Cannelton City Schools,21,14,66.7%,8,38.1%
+6350,Tell City-Troy Twp School Corp,82,79,96.3%,73,89.0%
+6375,North Central Parke Comm Schl Corp,94,93,98.9%,84,89.4%
+6445,Pike County School Corp,131,117,89.3%,105,80.2%
+6460,M S D Boone Township,87,83,95.4%,83,95.4%
+6470,Duneland School Corporation,467,448,95.9%,428,91.6%
+6510,East Porter County School Corp,186,181,97.3%,172,92.5%
+6520,Porter Township School Corp,131,127,96.9%,125,95.4%
+6530,Union Township School Corp,146,144,98.6%,136,93.2%
+6550,Portage Township Schools,597,541,90.6%,522,87.4%
+6560,Valparaiso Community Schools,489,462,94.5%,449,91.8%
+6590,M S D Mount Vernon,169,164,97.0%,144,85.2%
+6600,M S D North Posey Co Schools,107,98,91.6%,97,90.7%
+6620,Eastern Pulaski Community Sch Corp,101,94,93.1%,86,85.1%
+6630,West Central School Corp,58,50,86.2%,50,86.2%
+6705,South Putnam Community Schools,82,79,96.3%,74,90.2%
+6715,North Putnam Community Schools,109,101,92.7%,98,89.9%
+6750,Cloverdale Community Schools,105,101,96.2%,94,89.5%
+6755,Greencastle Community School Corp,128,119,93.0%,107,83.6%
+6795,Union School Corporation,33,22,66.7%,17,51.5%
+6805,Randolph Southern School Corp,31,31,100.0%,29,93.5%
+6820,Monroe Central School Corp,81,78,96.3%,74,91.4%
+6825,Randolph Central School Corp,89,85,95.5%,78,87.6%
+6835,Randolph Eastern School Corp,59,56,94.9%,56,94.9%
+6865,South Ripley Com Sch Corp,99,94,94.9%,81,81.8%
+6895,Batesville Community School Corp,197,193,98.0%,186,94.4%
+6900,Jac-Cen-Del Community Sch Corp,59,53,89.8%,51,86.4%
+6910,Milan Community Schools,88,84,95.5%,72,81.8%
+6995,Rush County Schools,174,166,95.4%,161,92.5%
+7150,John Glenn School Corporation,170,158,92.9%,154,90.6%
+7175,Penn-Harris-Madison School Corp,844,824,97.6%,787,93.2%
+7200,School City of Mishawaka,340,311,91.5%,281,82.6%
+7205,South Bend Community School Corp,1207,1011,83.8%,892,73.9%
+7215,Union-North United School Corp,69,59,85.5%,52,75.4%
+7230,Scott County School District 1,86,77,89.5%,69,80.2%
+7255,Scott County School District 2,194,162,83.5%,152,78.4%
+7285,Shelby Eastern Schools,77,70,90.9%,61,79.2%
+7350,Northwestern Con School Corp,114,110,96.5%,106,93.0%
+7360,Southwestern Con Sch Shelby Co,47,47,100.0%,44,93.6%
+7365,Shelbyville Central Schools,248,232,93.5%,217,87.5%
+7385,North Spencer County Sch Corp,125,125,100.0%,124,99.2%
+7445,South Spencer County Sch Corp,103,91,88.3%,91,88.3%
+7495,Oregon-Davis School Corp,54,42,77.8%,40,74.1%
+7515,North Judson-San Pierre Sch Corp,82,75,91.5%,66,80.5%
+7525,Knox Community School Corp,135,120,88.9%,118,87.4%
+7605,Fremont Community Schools,79,67,84.8%,62,78.5%
+7610,Hamilton Community Schools,42,34,81.0%,33,78.6%
+7615,M S D Steuben County,212,185,87.3%,167,78.8%
+7645,Northeast School Corp,75,67,89.3%,64,85.3%
+7715,Southwest School Corp,138,132,95.7%,129,93.5%
+7775,Switzerland County School Corp,117,110,94.0%,99,84.6%
+7855,Lafayette School Corporation,459,405,88.2%,364,79.3%
+7865,Tippecanoe School Corp,767,715,93.2%,669,87.2%
+7875,West Lafayette Com School Corp,166,166,100.0%,162,97.6%
+7935,Tri-Central Community Schools,71,69,97.2%,65,91.5%
+7945,Tipton Community School Corp,129,126,97.7%,102,79.1%
+7950,Union Co/Clg Corner Joint Sch Dist,124,112,90.3%,109,87.9%
+7995,Evansville Vanderburgh School Corp,1535,1212,79.0%,1090,71.0%
+8010,North Vermillion Com Sch Corp,75,66,88.0%,43,57.3%
+8020,South Vermillion Com Sch Corp,106,103,97.2%,93,87.7%
+8030,Vigo County School Corp,944,855,90.6%,800,84.7%
+8045,Manchester Community Schools,111,106,95.5%,100,90.1%
+8050,M S D Wabash County Schools,181,154,85.1%,130,71.8%
+8060,Wabash City Schools,103,97,94.2%,85,82.5%
+8115,M S D Warren County,87,85,97.7%,81,93.1%
+8130,Warrick County School Corp,732,635,86.7%,595,81.3%
+8205,Salem Community Schools,133,126,94.7%,108,81.2%
+8215,East Washington School Corp,120,110,91.7%,97,80.8%
+8220,West Washington School Corp,78,77,98.7%,75,96.2%
+8305,Nettle Creek School Corporation,73,70,95.9%,65,89.0%
+8355,Western Wayne Schools,81,70,86.4%,58,71.6%
+8360,Centerville-Abington Com Schs,120,113,94.2%,109,90.8%
+8375,Northeastern Wayne Schools,96,92,95.8%,87,90.6%
+8385,Richmond Community Schools,305,292,95.7%,275,90.2%
+8425,Southern Wells Com Schools,65,60,92.3%,54,83.1%
+8435,Northern Wells Com Schools,204,195,95.6%,177,86.8%
+8445,M S D Bluffton-Harrison,110,108,98.2%,99,90.0%
+8515,North White School Corp,50,43,86.0%,38,76.0%
+8525,Frontier School Corporation,60,56,93.3%,49,81.7%
+8535,Tri-County School Corporation,51,43,84.3%,41,80.4%
+8565,Twin Lakes School Corp,156,142,91.0%,135,86.5%
+8625,Smith-Green Community Schools,101,97,96.0%,92,91.1%
+8665,Whitley Co Cons Schools,243,231,95.1%,222,91.4%
+8810,CSUSA Howe,73,46,63.0%,46,63.0%
+8815,CSUSA Manual,98,81,82.7%,74,75.5%
+8820,Edison Learning Roosevelt,84,48,57.1%,34,40.5%
+9200,Archdiocese of Indianapolis,1448,1430,98.8%,1405,97.0%
+9205,Diocese of Gary,300,294,98.0%,290,96.7%
+9210,Diocese of Lafayette Catholic Sch,233,232,99.6%,232,99.6%
+9215,Diocese of Evansville,330,327,99.1%,316,95.8%
+9220,Diocese of Fort Wayne - South Bend,803,799,99.5%,790,98.4%
+9230,Lutheran Schools of Indiana,243,240,98.8%,236,97.1%
+9305,Excel Center - Richmond,133,28,21.1%,27,20.3%
+9315,Signature School Inc,72,72,100.0%,72,100.0%
+9320,Community Montessori Inc,33,30,90.9%,24,72.7%
+9325,Options Charter School - Carmel,39,14,35.9%,11,28.2%
+9330,Irvington Community School,64,50,78.1%,46,71.9%
+9335,Excel Center - Lafayette Square,75,22,29.3%,22,29.3%
+9345,Excel Center - Lafayette,149,40,26.8%,39,26.2%
+9355,Excel Center - Kokomo,116,37,31.9%,36,31.0%
+9380,Christel House Academy South,20,17,85.0%,17,85.0%
+9385,Christel House DORS South,75,14,18.7%,12,16.0%
+9440,Christel House DORS West,16,7,43.8%,7,43.8%
+9445,Charles A Tindley Accelerated Sch,36,32,88.9%,32,88.9%
+9460,Thea Bowman Leadership Academy,101,96,95.0%,81,80.2%
+9535,Gary Lighthouse Charter School,104,102,98.1%,89,85.6%
+9545,21st Century Charter Sch of Gary,35,31,91.4%,28,80.0%
+9575,Indpls Lighthouse Charter School,57,56,98.2%,53,93.0%
+9620,Burris Laboratory School,40,39,97.5%,39,97.5%
+9625,IN Acad for Sci Math & Humanities,143,139,97.2%,139,97.2%
+9630,Carpe Diem - Shadeland,***,***,***,***,***
+9640,Options Charter School Noblesville,63,14,22.2%,13,20.6%
+9650,Herron Charter,182,180,98.9%,178,97.8%
+9655,Hope Academy,***,***,***,***,***
+9670,Indianapolis Metropolitan High Sch,50,31,62.0%,29,58.0%
+9705,Hammond Academy of Science & Tech,65,62,95.4%,60,92.3%
+9710,Carpe Diem - Northwest,***,***,***,***,***
+9730,Neighbors' New Vistas High School,100,33,33.0%,33,33.0%
+9750,Excel Center - Anderson,138,35,25.4%,29,21.0%
+9755,Carpe Diem - Meridian Campus,***,***,***,***,***
+9760,Smith Academy for Excellence,***,***,***,***,***
+9790,Anderson Preparatory Academy,59,53,89.8%,51,86.4%
+9805,Hoosier Academy - Indianapolis,15,8,53.3%,7,46.7%
+9840,Excel Center - University Heights,73,7,9.6%,7,9.6%
+9855,Excel Center - Noblesville,40,10,25.0%,9,22.5%
+9865,Hoosier Acad Virtual Charter,538,122,22.7%,88,16.4%
+9875,Rock Creek Community Academy,23,21,91.3%,20,87.0%
+9880,Career Academy High School,47,43,91.5%,39,83.0%
+9885,Gary Middle College,99,27,27.3%,25,25.3%
+9890,Indiana Virtual School,419,24,5.7%,21,5.0%
+9895,IN Math & Science Academy - North,17,13,76.5%,13,76.5%
+9900,Excel Center - South Bend,24,0,0.0%,0,0.0%
+9905,Indiana Connections Academy,775,340,43.9%,300,38.7%
+9910,Excel Center for Adult Learners,499,113,22.6%,102,20.4%
+9915,Marion Academy,29,2,6.9%,2,6.9%
+9920,Damar Charter Academy,17,5,29.4%,1,5.9%
+9930,Nexus Academy of Indianapolis,44,26,59.1%,24,54.5%
+9950,Dugger Union Community School Corp,23,16,69.6%,15,65.2%
+N/A,Independent Non-Public Schools,1331,1056,79.3%,955,71.8%
+,,,,,,
+"***Due to federal privacy laws, student performance data may not be displayed for any group of fewer than 10 students.",,,,,,
